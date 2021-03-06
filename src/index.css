@@ -1,0 +1,9 @@
+body {
+ color: rgb(163, 154, 154);
+ background-color: red;
+ margin: 0px;
+ padding: 0px;
+ font-family: 'Open Sans', sans-serif;
+ font-size: 0.88rem;
+ overflow-x: hidden;
+}
